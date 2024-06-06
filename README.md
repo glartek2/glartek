@@ -1,3 +1,1 @@
 # 🐮  Glartek
-
-** 'CS Student'**

@@ -45,7 +45,7 @@ Hello! My name is Sebastian, and I am a computer science student. I have a passi
 
 ### Interests
 <details>
-  <summary><h3> 🕹️ My Relax Time </h3></summary>
+  <summary> 🕹️ My Relax Time </summary>
 I am a huge fan of Souls games, with Sekiro being my favorite. These games teach patience and determination to overcome obstacles. I also enjoy playing Minecraft, where I can unleash my creativity or simply relax and immerse myself in a good story. This love for engaging narratives extends to books and movies as well.
 
 Gaming is also a way for me to connect with my long-distance friends. Additionally, like most people, I enjoy listening to music, particularly soundtracks from games and movies I've experienced. Music helps me focus while working.

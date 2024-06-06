@@ -1,7 +1,7 @@
 # 🐮  Glartek
+
 ---
-<img src="https://media.giphy.com/media/2lSNErRCiZPck/giphy.gif?cid=790b7611fxu5p5fodu6mtnjktv6x7yxuny7e9eqo5dr2vowb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
----
+
 **`Computer Science Student`**
 
 Hello! My name is Sebastian, and I am a computer science student. I have a passion for writing programs that solve real-life problems. I particularly enjoy working on algorithms and integrating them into programs. I am always eager to learn new technologies and improve my skills in coding and problem-solving as well as training my soft skills.
@@ -53,3 +53,8 @@ Gaming is also a way for me to connect with my long-distance friends. Additional
 Another passion of mine is gastronomy. While I don't cook often, I love watching and reading about cooking techniques and products from different countries. Learning about various food cultures fascinates me, and I dream of traveling to these countries to try their local cuisine and do some sightseeing.
 
 </details>
+
+
+---
+<img src="https://media.giphy.com/media/2lSNErRCiZPck/giphy.gif?cid=790b7611fxu5p5fodu6mtnjktv6x7yxuny7e9eqo5dr2vowb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+---

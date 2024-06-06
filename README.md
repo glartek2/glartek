@@ -25,11 +25,13 @@ Hello! My name is Sebastian, and I am a computer science student. I have a passi
 
 #
 
+<!--
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=glartek2&show_icons=true&theme=dracula)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=glartek2&theme=dracula&border_radius=4.5) -->
+
 
 #
 <details>

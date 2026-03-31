@@ -4,12 +4,12 @@
 
 **`Computer Science Student`**
 
-Hello! My name is Sebastian, and I am a computer science student. I have a passion for writing programs that solve real-life problems. I particularly enjoy working on algorithms and integrating them into programs. I am always eager to learn new technologies and improve my skills in coding and problem-solving as well as training my soft skills.
+Hello! My name is Sebastian, and I am a computer science student currently pursuing master degree. I have a passion for writing programs that solve real-life problems. I particularly enjoy working with algorithms and integrating them into programs. I am always eager to learn new technologies and improve my skills in coding and problem-solving as well as training my soft skills.
 
 ---
 ### 🛠️ Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
@@ -37,7 +37,7 @@ Hello! My name is Sebastian, and I am a computer science student. I have a passi
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
     My journey into coding began in middle school when I initially joined a computer science class for its Photoshop course. However, I quickly became captivated by coding after our teacher posed algorithm questions to students from other courses. I love a good puzzle, and this sparked my interest in programming.
-    For a couple of years, I delved deeply into problem-solving and math, almost completely pausing my coding activities. When the time came to choose a career path, I realized that creating and integrating real-life solutions was more exciting to me than theoretical calculations. Now, after two years of college, I am pursuing my Computer Science degree with a focus on algorithms.
+    For a couple of years, I delved deeply into problem-solving and math, almost completely pausing my coding activities. When the time came to choose a career path, I realized that creating and integrating real-life solutions was more exciting to me than theoretical calculations.
 </details>
 
 
@@ -46,11 +46,13 @@ Hello! My name is Sebastian, and I am a computer science student. I have a passi
 ### Interests
 <details>
   <summary><h3> 🕹️ My Relax Time </h3></summary>
-I am a huge fan of Souls games, with Sekiro being my favorite. These games teach patience and determination to overcome obstacles. I also enjoy playing Minecraft, where I can unleash my creativity or simply relax and immerse myself in a good story. This love for engaging narratives extends to books and movies as well.
+I am a huge fan of Souls games, with Sekiro being my favorite. These games teach patience and determination to overcome obstacles. From the other side I also enjoy playing Minecraft, where I can unleash my creativity or simply relax and immerse myself in a good story. This love for engaging narratives extends to books and movies as well.
 
-Gaming is also a way for me to connect with my long-distance friends. Additionally, like most people, I enjoy listening to music, particularly soundtracks from games and movies I've experienced. Music helps me focus while working.
+Gaming is also a way for me to connect with my long-distance friends. Additionally, like most people, I enjoy listening to music, particularly soundtracks from various media.
 
-Another passion of mine is gastronomy. While I don't cook often, I love watching and reading about cooking techniques and products from different countries. Learning about various food cultures fascinates me, and I dream of traveling to these countries to try their local cuisine and do some sightseeing.
+Another passion of mine is gastronomy. While I don't cook often, I love watching and reading about cooking techniques and products from different countries. Learning about various food cultures fascinates me, and I dream of traveling to these countries to try their local cuisine and do some sightseeing. Whats important I don't only learn about food, I love get into chemistry and physics behind it.
+
+Lastly I try myself with other culture like books and movies which I enjoy, but they are not my daily baisis.
 
 </details>
 
